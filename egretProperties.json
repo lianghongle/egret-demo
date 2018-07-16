@@ -1,0 +1,47 @@
+{
+  "engineVersion": "5.2.4",
+  "compilerVersion": "5.2.4",
+  "template": {},
+  "target": {
+    "current": "web"
+  },
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name": "assetsmanager"
+    },
+    {
+      "name": "dragonBones"
+    },
+    {
+      "name": "socket"
+    },
+    {
+      "name": "egretia-sdk"
+    },
+    {
+      "name": "experimental"
+    },
+    {
+      "name": "eui"
+    },
+    {
+      "name": "egret-facebook"
+    },
+    {
+      "name": "promise"
+    },
+    {
+      "name": "egretad",
+      "path": "./egretad"
+    }
+  ]
+}
